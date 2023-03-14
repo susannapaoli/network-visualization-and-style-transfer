@@ -1,1 +1,1 @@
-# Networks Visualization and Style Transfer
+# Network Visualization and Style Transfer
